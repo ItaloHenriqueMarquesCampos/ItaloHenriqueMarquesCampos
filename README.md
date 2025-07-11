@@ -6,7 +6,7 @@ Sou o Ítalo Marques, Analista de Dados no Grupo Prominas, apaixonado por transf
 - 🌱 Aprendendo todos os dias sobre extração, tratamento e visualização de dados.
 - 💬 Pergunte-me sobre SQL, visualização de dados e dicas de análises de dados.
 - 📫 Contato: [www.linkedin.com/in/data-italomarques]
-- Portfólio: [https://port-theta-brown.vercel.app/]
+- Portfólio: [https://inspiring-gnome-037d65.netlify.app]
 
 Vamos simplificar dados juntos! 🚀
 
