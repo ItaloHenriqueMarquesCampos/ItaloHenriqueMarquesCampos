@@ -1,3 +1,5 @@
+![1719094659535](https://github.com/user-attachments/assets/40167026-d99d-42e3-87d1-92df4183b731)
+
 ## Olá! 👋
 Bem-vindo ao meu perfil do GitHub!
 Sou o Ítalo Marques, Analista de Dados no Grupo Prominas, apaixonado por transformar dados em insights estratégicos. 🚀
