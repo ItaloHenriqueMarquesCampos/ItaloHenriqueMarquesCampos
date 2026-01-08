@@ -12,8 +12,6 @@ Sou o Ítalo Marques, Analista de Dados no Grupo Prominas, apaixonado por transf
 
 Vamos simplificar dados juntos! 🚀
 
-[![Italo Henrique's GitHub stats](https://github-readme-stats.vercel.app/api?username=ItaloHenriqueMarquesCampos&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="50" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg">
   <img align="center" alt="Rafa-Ts" height="50" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg">
