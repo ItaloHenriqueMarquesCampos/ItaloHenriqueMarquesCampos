@@ -15,7 +15,17 @@ Vamos simplificar dados juntos! 🚀
 [![My Skills](https://skillicons.dev/icons?i=py,mongodb,mysql,postman&theme=light)](https://skillicons.dev)
 
 </div>
-  
+
+## 📂 Projetos em destaque
+
+| Projeto | Descrição |
+|---|---|
+| [portfolio-dashboards](https://github.com/ItaloHenriqueMarquesCampos/portfolio-dashboards) | 23 cases de dashboards em Power BI, Looker Studio e Google Sheets, organizados por área |
+| [sorteador-uniunica](https://github.com/ItaloHenriqueMarquesCampos/sorteador-uniunica) | Sorteador web do Centro Universitário Única (React + TypeScript) · [acessar](https://italohenriquemarquescampos.github.io/sorteador-uniunica/) |
+| [analise-instituicoes-ensino-ibge](https://github.com/ItaloHenriqueMarquesCampos/analise-instituicoes-ensino-ibge) | Instituições de ensino no Brasil de 2009 a 2023 (IBGE) no Looker Studio |
+| [rh-analytics-visao-executiva](https://github.com/ItaloHenriqueMarquesCampos/rh-analytics-visao-executiva) | Planejamento de KPIs e páginas para um dashboard executivo de RH |
+| [curso-looker-studio-na-pratica](https://github.com/ItaloHenriqueMarquesCampos/curso-looker-studio-na-pratica) | Bases de dados e dashboards do curso de Looker Studio |
+
   ##
  
 <div> 
