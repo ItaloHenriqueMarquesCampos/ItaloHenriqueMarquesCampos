@@ -7,14 +7,12 @@ Sou o Ítalo Marques, Analista de Dados no Grupo Prominas, apaixonado por transf
 - 🔭 Focado em projetos de análise de dados e otimização de negócios.
 - 🌱 Aprendendo todos os dias sobre extração, tratamento e visualização de dados.
 - 💬 Pergunte-me sobre SQL, visualização de dados e dicas de análises de dados.
-- 📫 Contato: [www.linkedin.com/in/data-italomarques]
-- Portfólio: [https://italomarquesc.my.canva.site]
+- 📫 Contato: [linkedin.com/in/data-italomarques](https://www.linkedin.com/in/data-italomarques)
+- 🎨 Portfólio: [italomarquesc.my.canva.site](https://italomarquesc.my.canva.site)
 
 Vamos simplificar dados juntos! 🚀
 
 [![My Skills](https://skillicons.dev/icons?i=py,mongodb,mysql,postman&theme=light)](https://skillicons.dev)
-
-</div>
 
 ## 📂 Projetos em destaque
 
