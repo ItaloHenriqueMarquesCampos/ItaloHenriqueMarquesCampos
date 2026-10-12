@@ -1,5 +1,5 @@
-![1719094659535](https://github.com/user-attachments/assets/40167026-d99d-42e3-87d1-92df4183b731)
-<img width="1584" height="396" alt="Blue and White Futuristic Manager LinkedIn Banner" src="https://github.com/user-attachments/assets/15247f1d-15a6-4783-a06f-29b5c5770752" />
+![1719094659535](<img width="1584" height="396" alt="Blue and White Futuristic Manager LinkedIn Banner" src="https://github.com/user-attachments/assets/51bc1b4e-ca1c-44c8-ba0e-de45bdf244b4" />)
+
 
 
 ## Olá! 👋
