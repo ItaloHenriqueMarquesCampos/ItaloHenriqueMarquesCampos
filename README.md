@@ -25,6 +25,7 @@ Vamos simplificar dados juntos! 🚀
 | [analise-instituicoes-ensino-ibge](https://github.com/ItaloHenriqueMarquesCampos/analise-instituicoes-ensino-ibge) | Instituições de ensino no Brasil de 2009 a 2023 (IBGE) no Looker Studio |
 | [rh-analytics-visao-executiva](https://github.com/ItaloHenriqueMarquesCampos/rh-analytics-visao-executiva) | Planejamento de KPIs e páginas para um dashboard executivo de RH |
 | [curso-looker-studio-na-pratica](https://github.com/ItaloHenriqueMarquesCampos/curso-looker-studio-na-pratica) | Bases de dados e dashboards do curso de Looker Studio |
+| [projetos-abertos](https://github.com/ItaloHenriqueMarquesCampos/projetos-abertos) | Planilha de controle de gastos no Google Sheets com dashboard, evolução de 12 meses e manual de uso · [fazer uma cópia](https://docs.google.com/spreadsheets/d/1ZgmUHBL5qYtjNzO0LlQvfPiwU3DLfkyp_z4F3CbGjgI/copy) |
 
   ##
  
