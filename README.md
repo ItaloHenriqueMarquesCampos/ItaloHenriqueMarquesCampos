@@ -1,4 +1,4 @@
-<img width="1584" height="396" alt="Blue and White Futuristic Manager LinkedIn Banner" src="https://github.com/user-attachments/assets/51bc1b4e-ca1c-44c8-ba0e-de45bdf244b4" />
+![Uploading Blue and White Futuristic Manager LinkedIn Banner (1).png…]()
 
 
 
