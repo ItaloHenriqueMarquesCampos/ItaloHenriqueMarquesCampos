@@ -1,4 +1,4 @@
-![Uploading Blue and White Futuristic Manager LinkedIn Banner (1).png…]()
+<img width="4950" height="1238" alt="Blue and White Futuristic Manager LinkedIn Banner (1)" src="https://github.com/user-attachments/assets/4f1af805-01d4-424a-94d0-d145480c5675" />
 
 
 
