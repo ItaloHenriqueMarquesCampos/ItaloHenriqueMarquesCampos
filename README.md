@@ -14,8 +14,8 @@ Vamos simplificar dados juntos!
 ## 🧰 Ferramentas
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py,mysql,postgres,mongodb,ts,js,react,nextjs,nodejs,fastapi,docker,git,githubactions,postman&theme=dark">
-  <img alt="Python, MySQL, PostgreSQL, MongoDB, TypeScript, JavaScript, React, Next.js, Node.js, FastAPI, Docker, Git, GitHub Actions e Postman" src="https://skillicons.dev/icons?i=py,mysql,postgres,mongodb,ts,js,react,nextjs,nodejs,fastapi,docker,git,githubactions,postman&theme=light">
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py%2Cmysql%2Cpostgres%2Cmongodb%2Cts%2Cjs%2Creact%2Cnextjs%2Cnodejs%2Cfastapi%2Cdocker%2Cgit%2Cgithubactions%2Cpostman&theme=dark">
+  <img alt="Python, MySQL, PostgreSQL, MongoDB, TypeScript, JavaScript, React, Next.js, Node.js, FastAPI, Docker, Git, GitHub Actions e Postman" src="https://skillicons.dev/icons?i=py%2Cmysql%2Cpostgres%2Cmongodb%2Cts%2Cjs%2Creact%2Cnextjs%2Cnodejs%2Cfastapi%2Cdocker%2Cgit%2Cgithubactions%2Cpostman&theme=light">
 </picture>
 
 | Área | Ferramentas |
