@@ -1,0 +1,43 @@
+name: Atualiza os gráficos do perfil
+
+on:
+  schedule:
+    - cron: '17 9 * * 1' # toda segunda-feira, 06:17 no horário de Brasília
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - 'scripts/gerar_graficos.py'
+      - 'graficos/dados.json'
+      - '.github/workflows/graficos.yml'
+
+# Só precisa gravar os gráficos e o README neste repositório.
+permissions:
+  contents: write
+
+concurrency:
+  group: graficos
+  cancel-in-progress: false
+
+jobs:
+  atualizar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+
+      - name: Gera os gráficos
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python3 scripts/gerar_graficos.py
+
+      - name: Salva o que mudou
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add graficos README.md
+          if git diff --cached --quiet; then
+            echo "Nada mudou."
+          else
+            git commit -m "Atualiza os gráficos do perfil"
+            git push
+          fi
