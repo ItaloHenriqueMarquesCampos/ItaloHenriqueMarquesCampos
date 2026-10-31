@@ -1,0 +1,31 @@
+{
+  "_sobre": "Dados fixos dos gráficos do perfil. Atualize à mão e rode: python3 scripts/gerar_graficos.py",
+  "repositorios": {"total": 21, "nota": "8 públicos"},
+  "consultas": {"total": 75, "nota": "SQL e MongoDB versionadas"},
+  "linguagens": {
+    "contado_em": "2026-10-31",
+    "subtitulo": "Parte das linhas de código nos 21 repositórios (públicos e privados)",
+    "nota": "Linhas não vazias da branch principal, sem CSS e HTML · contado em 31/10/2026",
+    "itens": [
+      {"nome": "TypeScript", "linhas": 31019},
+      {"nome": "Python", "linhas": 6364},
+      {"nome": "JavaScript (MongoDB)", "linhas": 5599},
+      {"nome": "SQL", "linhas": 3420}
+    ]
+  },
+  "portfolio": {
+    "total": 23,
+    "subtitulo": "23 cases do repositório portfolio-dashboards, por área e ferramenta principal",
+    "nota": "2 cases combinam o Looker Studio com SQL ou Google Sheets",
+    "ferramentas": ["Power BI", "Looker Studio"],
+    "areas": [
+      {"nome": "Vendas e comercial", "por_ferramenta": [4, 3]},
+      {"nome": "Financeiro", "por_ferramenta": [5, 0]},
+      {"nome": "Operações, compras e logística", "por_ferramenta": [3, 0]},
+      {"nome": "Consórcios", "por_ferramenta": [2, 1]},
+      {"nome": "Recursos Humanos", "por_ferramenta": [2, 0]},
+      {"nome": "Marketing e atendimento", "por_ferramenta": [0, 2]},
+      {"nome": "Educação (Grupo Prominas)", "por_ferramenta": [0, 1]}
+    ]
+  }
+}
