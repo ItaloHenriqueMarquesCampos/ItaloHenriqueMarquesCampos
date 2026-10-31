@@ -7,7 +7,8 @@ Sou o **Ítalo Marques**, Analista de Dados no **Grupo Prominas**, apaixonado po
 - 🔭 Focado em projetos de análise de dados e otimização de negócios.
 - 🌱 Aprendendo todos os dias sobre extração, tratamento e visualização de dados.
 - 💬 Pergunte-me sobre SQL, visualização de dados e dicas de análise de dados.
-- 🎨 Portfólio: [italomarquesc.my.canva.site](https://italomarquesc.my.canva.site) · 🌐 Site: [marquesbi.com.br](https://marquesbi.com.br)
+- 🎨 Portfólio: [italomarquesc.my.canva.site](https://italomarquesc.my.canva.site)
+- 🌐 Site: [marquesbi.com.br](https://marquesbi.com.br)
 
 Vamos simplificar dados juntos!
 
@@ -15,7 +16,7 @@ Vamos simplificar dados juntos!
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py%2Cmysql%2Cpostgres%2Cmongodb%2Cts%2Cjs%2Creact%2Cnextjs%2Cnodejs%2Cfastapi%2Cdocker%2Cgit%2Cgithubactions%2Cpostman&theme=dark">
-  <img alt="Python, MySQL, PostgreSQL, MongoDB, JavaScript, Next.js, Node.js, FastAPI, Docker, Git, GitHub Actions e Postman" src="https://skillicons.dev/icons?i=py%2Cmysql%2Cpostgres%2Cmongodb%2Cts%2Cjs%2Creact%2Cnextjs%2Cnodejs%2Cfastapi%2Cdocker%2Cgit%2Cgithubactions%2Cpostman&theme=light">
+  <img alt="Python, MySQL, PostgreSQL, MongoDB, JavaScript, Next.js, Node.js, Docker, Git, GitHub Actions e Postman" src="https://skillicons.dev/icons?i=py%2Cmysql%2Cpostgres%2Cmongodb%2Cts%2Cjs%2Creact%2Cnextjs%2Cnodejs%2Cfastapi%2Cdocker%2Cgit%2Cgithubactions%2Cpostman&theme=light">
 </picture>
 
 | Área | Ferramentas |
