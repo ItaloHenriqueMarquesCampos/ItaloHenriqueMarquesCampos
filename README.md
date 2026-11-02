@@ -29,76 +29,7 @@ Vamos simplificar dados juntos!
 | Programação | Python (pandas) · TypeScript · JavaScript |
 | Desenvolvimento | React · Next.js · Node.js · FastAPI · Docker · Git · GitHub Actions · Postman |
 
-## 📊 Em números
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="graficos/numeros-escuro.svg">
-  <img alt="Em números: contribuições no GitHub nos últimos 12 meses, dashboards no portfólio, consultas SQL e MongoDB versionadas e repositórios" src="graficos/numeros-claro.svg">
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="graficos/contribuicoes-escuro.svg">
-  <img alt="Gráfico de colunas com as contribuições no GitHub por mês nos últimos 12 meses" src="graficos/contribuicoes-claro.svg">
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="graficos/linguagens-escuro.svg">
-  <img alt="Gráfico de barras com a parte das linhas de código por linguagem: TypeScript 67%, Python 14%, JavaScript (MongoDB) 12% e SQL 7%" src="graficos/linguagens-claro.svg">
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="graficos/portfolio-escuro.svg">
-  <img alt="Gráfico de barras com os 23 dashboards do portfólio por área, divididos entre Power BI (16) e Looker Studio (7)" src="graficos/portfolio-claro.svg">
-</picture>
-
-<details>
-<summary>Ver os dados dos gráficos</summary>
-
-**Contribuições por mês** (atualizado toda semana)
-
-<!-- contribuicoes:inicio -->
-| Mês | Contribuições |
-|---|---:|
-| nov/2025 | 22 |
-| dez/2025 | 5 |
-| jan/2026 | 3 |
-| fev/2026 | 3 |
-| mar/2026 | 9 |
-| abr/2026 | 33 |
-| mai/2026 | 15 |
-| jun/2026 | 15 |
-| jul/2026 | 33 |
-| ago/2026 | 17 |
-| set/2026 | 11 |
-| out/2026 | 158 |
-| **Total** | **324** |
-<!-- contribuicoes:fim -->
-
-**Linguagens** (linhas não vazias da branch principal dos 21 repositórios, sem CSS e HTML, contado em 31/10/2026)
-
-| Linguagem | Linhas | Parte |
-|---|---:|---:|
-| TypeScript | 31.019 | 67% |
-| Python | 6.364 | 14% |
-| JavaScript (MongoDB) | 5.599 | 12% |
-| SQL | 3.420 | 7% |
-
-**Portfólio de dashboards** (ferramenta principal de cada case)
-
-| Área | Power BI | Looker Studio | Total |
-|---|---:|---:|---:|
-| Vendas e comercial | 4 | 3 | 7 |
-| Financeiro | 5 | 0 | 5 |
-| Consórcios | 2 | 1 | 3 |
-| Operações, compras e logística | 3 | 0 | 3 |
-| Marketing e atendimento | 0 | 2 | 2 |
-| Recursos Humanos | 2 | 0 | 2 |
-| Educação (Grupo Prominas) | 0 | 1 | 1 |
-| **Total** | **16** | **7** | **23** |
-
 </details>
-
-<sub>Os gráficos são gerados por <a href="scripts/gerar_graficos.py">scripts/gerar_graficos.py</a>. As contribuições são atualizadas toda segunda-feira pelo GitHub Actions; os outros números vêm de <a href="graficos/dados.json">graficos/dados.json</a>.</sub>
 
 ## 📂 Projetos em destaque
 
