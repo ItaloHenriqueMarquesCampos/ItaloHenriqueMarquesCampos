@@ -17,7 +17,7 @@ Vamos simplificar dados juntos!
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py%2Cmysql%2Cpostgres%2Cmongodb%2Cjs%2Cnodejs%2Cdocker%2Cgit%2Cgithubactions%2Cpostman&theme=dark">
-  <img alt="Python, MySQL, PostgreSQL, MongoDB, JavaScript, Node.js, Docker, Git, GitHub Actions e Postman" src="https://skillicons.dev/icons?i=py%2Cmysql%2Cpostgres%2Cmongodb%2Cjs%2Cnodejs%2Cdocker%2Cgit%2Cgithubactions%2Cpostman&theme=light">
+  <img alt="Python, MySQL, PostgreSQL, MongoDB, JavaScript, Postman" src="https://skillicons.dev/icons?i=py%2Cmysql%2Cpostgres%2Cmongodb%2Cjs%2Cpostman&theme=light">
 </picture>
 
 
